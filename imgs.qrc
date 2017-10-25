@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Background.png</file>
+        <file>dog.jpg</file>
+        <file>HOWDSImfNGR1GVsWF8IQHA-default.jpg</file>
+        <file>MacLookUp.png</file>
+    </qresource>
+</RCC>

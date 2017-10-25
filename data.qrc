@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1st.png</file>
+        <file>Background.png</file>
+        <file>MacLookUp.png</file>
+        <file>table.txt</file>
+        <file>2nd.png</file>
+        <file>logo.png</file>
+        <file>image_560907130417581670118.jpg</file>
+    </qresource>
+</RCC>
